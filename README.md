@@ -1,84 +1,122 @@
-<h1 align="center">Hi, I'm Emmanuel Gabriel 👋</h1>
+<!-- Animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emmanuel%20Gabriel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Spring%20Boot%20Developer&descSize=20&descAlignY=60" alt="header" />
 
-<p align="center">
-  <b>Java Spring Boot Developer</b> · Building secure, reliable backend systems<br>
-  📍 Mumbai, India &nbsp;|&nbsp; 🟢 Available to join immediately
-</p>
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://github.com/Emmanuel-3003">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Emmanuel+Gabriel;Java+Spring+Boot+Backend+Developer;Building+Secure+%26+Reliable+REST+APIs;Ex-TCS+%7C+Banking+Applications+%7C+Available+Immediately" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-gabriel3003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:degabriels03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emmanuel-3003&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/badge/Mumbai-India-38B2AC?style=flat&logo=googlemaps&logoColor=white" alt="location" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat" alt="open to work" />
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧑‍💻 About Me
 
-- 1+ year of experience in **banking applications** at **Tata Consultancy Services (TCS)**
-- Build and maintain **REST APIs** and backend services with **Spring Boot**
-- Resolved **15–20 production incidents weekly** within SLA, cutting triage time by **30%**
-- Passionate about clean layered architecture, API security, and data consistency
+- 💼 Ex-**Associate System Engineer at TCS**, working on banking applications (1+ year)
+- ⚙️ I build and maintain **REST APIs** and backend services with **Spring Boot**
+- 🛠️ Resolved **15–20 production incidents weekly** within SLA, cutting triage time by **30%**
+- 🔐 Love clean layered architecture, **JWT security** and data consistency
 - 🎯 Looking for a **Java Spring Boot Developer** role
 
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 🚀 Featured Projects
-
-### 🏦 [Bank App](https://github.com/Emmanuel-3003/Bank-App)
-A secure banking REST API with customers, accounts and transactions.
-- 10+ REST APIs across 3 modules using a **Controller → Service → Repository** architecture
-- **JWT authentication** with BCrypt-hashed passwords
-- **Double-entry transfers** (deposit, withdraw, transfer) with `@Transactional` to keep balances consistent
-- Centralized exception handling, pagination and sorting
-
-`Java 21` `Spring Boot` `Spring Security` `JPA/Hibernate` `MySQL`
-
-### 🛒 [E-Commerce API](https://github.com/Emmanuel-3003/E-Commerce)
-A full e-commerce backend covering the complete shopping flow.
-- 20+ REST APIs across 6 modules: auth, category, product, cart, address and order
-- **JWT + role-based access control** for User, Seller and Admin
-- Cart and order workflows, keyword search, image upload
-- Documented with **Swagger/OpenAPI** and tested in Postman
-
-`Java 17` `Spring Boot 3` `Spring Security` `JPA/Hibernate` `PostgreSQL`
-
-### 📝 [Django Blog](https://github.com/Emmanuel-3003/django-blog)
-A blog application built with Django, exploring Python web development beyond the Java ecosystem.
-
-`Python` `Django`
-
-### 💬 [Discord Clone](https://github.com/Emmanuel-3003/discord-clone)
-A Discord-inspired chat interface built to practice frontend layout and UI design.
-
-`HTML` `CSS`
-
-## 💼 Experience
-
-**Associate System Engineer · Tata Consultancy Services** &nbsp;(May 2025 – Oct 2026)
-- Worked on Spring Boot banking applications: service-layer logic, endpoint and entity changes
-- Supported a regulatory reporting tool: fixed defects and validated report data
-- Collaborated with Development, QA and Infrastructure teams
-
-## 🎓 Education
-
-**B.E. Computer Science & Engineering** · Chandigarh University (2020 – 2024)
+📫 **Email:** <degabriels03@gmail.com> &nbsp;|&nbsp; 💬 **LinkedIn:** [emmanuel-gabriel3003](https://www.linkedin.com/in/emmanuel-gabriel3003)
 
 ---
 
-<p align="center">
-  ⭐ Open to opportunities. Feel free to reach out!
-</p>
+# 🛠 Tech Stack
+
+<div align="center">
+
+**☕ Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postman" />
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+**🐍 Python & 🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,tailwind" />
+
+**☁️ Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,idea" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Emmanuel-3003/Bank-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-3003&repo=Bank-App&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Emmanuel-3003/E-Commerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-3003&repo=E-Commerce&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Emmanuel-3003/django-blog">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-3003&repo=django-blog&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Emmanuel-3003/discord-clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-3003&repo=discord-clone&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🏦 [Bank App](https://github.com/Emmanuel-3003/Bank-App)
+10+ REST APIs with **JWT auth**, BCrypt hashing and **double-entry transfers** using `@Transactional` to keep balances consistent.
+`Java 21` · `Spring Boot` · `Spring Security` · `JPA/Hibernate` · `MySQL`
+
+### 🛒 [E-Commerce API](https://github.com/Emmanuel-3003/E-Commerce)
+20+ REST APIs across 6 modules with **JWT + RBAC** (User, Seller, Admin), cart and order flows, documented in **Swagger**.
+`Java 17` · `Spring Boot 3` · `Spring Security` · `PostgreSQL`
+
+### 📝 [Django Blog](https://github.com/Emmanuel-3003/django-blog) &nbsp;|&nbsp; 💬 [Discord Clone](https://github.com/Emmanuel-3003/discord-clone)
+Side projects exploring **Python/Django** web development and **frontend UI design**.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-3003&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-3003&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Emmanuel-3003&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel-3003&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+💡 *"Write code that is simple, secure and built to last."*
+
+🚀 **Let's build something great together!**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
